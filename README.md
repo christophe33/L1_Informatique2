@@ -3,7 +3,9 @@
 ## Préambule
 C'est un cours d'algorithmique orienté sur l'utilisation des tableaux. Vous aborderez les notions d'algorithme, de complexité, de récursivité et de structures de données abstraites.
 
-Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF
+Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF. 
+
+Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement ![Jupyter lab](https://jupyter.org/) ou Jupyter notebook. 
 
 ## Modalité d'évaluation en Contrôle Continu
 - 20% QCM Moodle
