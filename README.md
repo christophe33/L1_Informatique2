@@ -14,7 +14,7 @@ Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs 
 Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement [Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe C avec Christophe Casseau
 
 ## Modalité d'évaluation en Contrôle Continu
-- 20% QCM Moodle
+- 20% 1 test écrit (30 minutes) + 2x QCM Moodle (environ 30 minutes)
 - 20% TD machine noté
 - 25% Devoir sur table intermédiaire
 - 35% Devoir terminale à la fin du semestre
