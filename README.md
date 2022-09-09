@@ -20,7 +20,7 @@ Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github 
 - 35% Devoir terminale à la fin du semestre
 
 ## Les enseignants
-|Nom Enseignant | Groupe | TD + TD machine | Cours |
+|Nom Enseignant | Groupe | TD / TD machine | Cours |
 |:---------------:|:--------:|:-----------------:|:-------:|
 | Carole Blanc | F | Mercredi 15H30-18H20 | Jeudi 17H00-18H20 |
 | Philippe Blasi | B | Jeudi 14H00-16H50 | Vendredi 11H00-12H20 |
