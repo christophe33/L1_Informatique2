@@ -8,8 +8,6 @@ Vous pouvez rencontrer les tuteurs en informatique de 12h45 à 13h45 lundi, mard
 
 Vous pouvez aussi prendre rendez-vous (individuel ou en petit groupe) avec un tuteur via l'espace moodle du tutorat informatique : https://moodle1.u-bordeaux.fr/course/view.php?id=8782
 
-Plus de détail sur La page du tutorat.
-
 ## Les documents
 Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF. 
 
