@@ -8,14 +8,12 @@ Vous pouvez rencontrer les tuteurs en informatique de 12h45 à 13h45 lundi, mard
 
 Vous pouvez aussi prendre rendez-vous (individuel ou en petit groupe) avec un tuteur via l'espace moodle du tutorat informatique : https://moodle1.u-bordeaux.fr/course/view.php?id=8782
 
-    clef d'inscription : info2021_2
-
-Plus de détail sur La page du tutorat. Le tutorat débute jeudi 23 septembre 2021.
+Plus de détail sur La page du tutorat.
 
 ## Les documents
 Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF. 
 
-Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement ![Jupyter lab](https://jupyter.org/) que vous pouvez installer sur votre ordinateur. 
+Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement ![Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe C avec Christophe Casseau
 
 ## Modalité d'évaluation en Contrôle Continu
 - 20% QCM Moodle
@@ -25,6 +23,6 @@ Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github 
 
 ## Les enseignants
 
-* Carole Blanc --> groupe F: Lundi 15H30-18H20  (TD + TD machine) + Jeudi 11H-12H20 (cours)
-* Philippe Blasi --> groupe E: Mardi 14H-15H20 (cours) + Vendredi 15H30-18H20 (TD + TD machine)
-* Christophe Casseau --> groupe A: Mercredi 8H-10H50 (TD + TD machine) + Jeudi 11H-12H20 (cours)
+* Carole Blanc --> groupe F: Mercredi 15H30-18H20  (TD + TD machine) + Jeudi 17H-18H20 (cours)
+* Philippe Blasi --> groupe E: Vendredi 8H00-10H50 (TD + TD machine) + Mercredi 11H-12H20 (cours)
+* Christophe Casseau --> groupe C: Lundi 9H30-12H20 (TD + TD machine) + Jeudi 14H-15H20 (cours)
