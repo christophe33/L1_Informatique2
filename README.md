@@ -13,7 +13,7 @@ Plus de détail sur La page du tutorat.
 ## Les documents
 Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF. 
 
-Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement ![Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe C avec Christophe Casseau
+Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement [Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe C avec Christophe Casseau
 
 ## Modalité d'évaluation en Contrôle Continu
 - 20% QCM Moodle
