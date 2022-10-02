@@ -1,4 +1,4 @@
-# L1 Informatique2 Année 2021-2022
+# L1 Informatique2 Année 2022-2023
 
 ## Préambule
 C'est un cours d'algorithmique orienté sur l'utilisation des tableaux. Vous aborderez les notions d'algorithme, de complexité, de récursivité et de structures de données abstraites.
