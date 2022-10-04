@@ -25,5 +25,5 @@ Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github 
 | Carole Blanc | F | Mercredi 15H30-18H20 | Jeudi 17H00-18H20 |
 | Philippe Blasi | B | Jeudi 14H00-16H50 | Vendredi 11H00-12H20 |
 | Philippe Blasi | E | Vendredi 8H00-10H50 | Mercredi 11H00-12H20 |
-| Christophe Casseau | C | Lundi 9H30-12H20 | Jeudi 14H00-15H20 |
+| Christophe Casseau | C | Lundi 9H30-12H20 | mercredi 14H00-15H20 |
 
