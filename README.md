@@ -1,7 +1,7 @@
 # L1 Informatique2 Année 2023-2024
 
 ## Préambule
-C'est un cours d'algorithmique orienté sur l'utilisation des tableaux. Vous aborderez les notions d'algorithme, de complexité, de récursivité et de structures de données abstraites.
+C'est un cours d'algorithmique orienté sur l'utilisation des tableaux. Vous aborderez les notions d'algorithme, de complexité, de récursivité et de graphes.
 
 ## Tutorat informatique
 Vous pouvez rencontrer les tuteurs en informatique de 12h45 à 13h45 lundi, mardi et jeudi dans le hall du bâtiment A22 (en face du guichet unique).
