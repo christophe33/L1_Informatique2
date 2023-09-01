@@ -1,4 +1,4 @@
-# L1 Informatique2 Année 2022-2023
+# L1 Informatique2 Année 2023-2024
 
 ## Préambule
 C'est un cours d'algorithmique orienté sur l'utilisation des tableaux. Vous aborderez les notions d'algorithme, de complexité, de récursivité et de structures de données abstraites.
@@ -11,7 +11,7 @@ Vous pouvez aussi prendre rendez-vous (individuel ou en petit groupe) avec un tu
 ## Les documents
 Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs machines au format PDF. 
 
-Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement [Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe C avec Christophe Casseau
+Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement [Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe ??? avec Christophe Casseau
 
 ## Modalité d'évaluation en Contrôle Continu
 - 20% 1 test écrit (30 minutes) + 2x QCM Moodle (environ 30 minutes)
@@ -22,8 +22,8 @@ Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github 
 ## Les enseignants
 |Nom Enseignant | Groupe | TD / TD machine | Cours |
 |:---------------:|:--------:|:-----------------:|:-------:|
-| Carole Blanc | F | Mercredi 15H30-18H20 | Jeudi 17H00-18H20 |
-| Philippe Blasi | B | Jeudi 14H00-16H50 | Vendredi 11H00-12H20 |
-| Philippe Blasi | E | Vendredi 8H00-10H50 | Mercredi 11H00-12H20 |
-| Christophe Casseau | C | Lundi 9H30-12H20 | mercredi 14H00-15H20 |
+| Wahiba Larbi | - | - | - |
+| Philippe Blasi | - | - | - |
+| Philippe Blasi | - | - | - |
+| Christophe Casseau | - | - | - |
 
