@@ -20,7 +20,7 @@ Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github 
 - 40% Devoir terminale à la fin du semestre
 
 ## Les enseignants
-|Nom Enseignant | Groupe | TD / TD machine | Cours |
+|Enseignants | Groupe | TD / TD machine | Cours |
 |:---------------:|:--------:|:-----------------:|:-------:|
 | Wahiba Larbi | C | vendredi 9H30-12H20 | merdi 11H-12H20 |
 | Philippe Blasi | F | mercredi 14H-16H50 | jeudi 14H-15H20 |
