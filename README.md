@@ -14,16 +14,16 @@ Vous trouverez sur ce github les cours au format ipynb ainsi que les TDs et TDs 
 Les fichiers avec l'extension `ipynb` peuvent être lus directement dans github mais également avec l'environnement [Jupyter lab](https://jupyter.org/) que je vous conseille d'installer sur votre ordinateur. Cet éditeur sera celui par défaut pour le groupe ??? avec Christophe Casseau
 
 ## Modalité d'évaluation en Contrôle Continu
-- 20% 1 test écrit (30 minutes) + 2x QCM Moodle (environ 30 minutes)
-- 20% TD machine noté
-- 25% Devoir sur table intermédiaire
-- 35% Devoir terminale à la fin du semestre
+- 3 Tests TD 15%
+- TP noté 15 %
+- 30% Devoir sur table intermédiaire
+- 40% Devoir terminale à la fin du semestre
 
 ## Les enseignants
 |Nom Enseignant | Groupe | TD / TD machine | Cours |
 |:---------------:|:--------:|:-----------------:|:-------:|
-| Wahiba Larbi | - | - | - |
-| Philippe Blasi | - | - | - |
-| Philippe Blasi | - | - | - |
-| Christophe Casseau | - | - | - |
+| Wahiba Larbi | C | vendredi 9H30-12H20 | merdi 11H-12H20 |
+| Philippe Blasi | F | mercredi 14H-16H50 | jeudi 14H-15H20 |
+| Philippe Blasi | E | mardi 8H-10H50 | mercredi 11H-12H20 |
+| Christophe Casseau | A | vendredi 14H-16H50 | jeudi 11H-12H20 |
 
